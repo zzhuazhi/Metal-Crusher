@@ -1,7 +1,16 @@
+<div align="center">
+
 <p align="center">
   <img src="image/logo.png" alt="HuaZhi Machinery" width="300"><br>
   <strong>Professional Metal Crusher & Shredder Manufacturer</strong>
 </p>
+
+[![Crusher](https://img.shields.io/badge/Crusher-Shredder-2f81f7?style=for-the-badge)](https://github.com/zzhuazhi)
+[![Products](https://img.shields.io/badge/Products-Chinese-238636?style=for-the-badge)](https://github.com/zzhuazhi)
+[![Phone](https://img.shields.io/badge/phone-8613073757790-6e7681?style=for-the-badge)](https://github.com/zzhuazhi)
+[![Whatsapp](https://img.shields.io/badge/Whatsapp-8619139765140-8957e5?style=for-the-badge)](https://github.com/zzhuazhi)
+
+</div>
 
 <p align="center">
   <a href="#-product-lines">📦 Products</a> •
@@ -221,7 +230,7 @@ A complete metal recycling production line typically follows this flow:
 
 ## 6. Service & Support
 
-| Service | Description |
+| Service |描述|
 |---------|-------------|
 | **Product Guarantee** | Full model range, stocked inventory, on-time delivery |
 | **Technical Support** | Customized crushing solutions by professional team |
