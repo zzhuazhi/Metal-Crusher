@@ -245,6 +245,7 @@ A complete metal recycling production line typically follows this flow:
 |---|---|
 | **Company** | Zhengzhou HuaZhi Machinery Co., Ltd. |
 | **Phone** | **+86 13073757790** |
+| **WhatsApp** | **+8619139765140** |
 | **Email** | huazhi@jxxss.cn |
 | **Address** | Zhengzhou City, Henan Province, China |
 
